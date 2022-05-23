@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paraskumar2003
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me @paraskumar2410@gmail.com
