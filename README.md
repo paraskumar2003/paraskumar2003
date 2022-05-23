@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @paraskumar2003
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me @paraskumar2410@gmail.com
 - Here's my linkedin Account https://www.linkedin.com/in/paras-kumar-314610232/
