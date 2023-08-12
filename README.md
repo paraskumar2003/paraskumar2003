@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paraskumar2003
-- 👀 I’m interested in software development.
+- 👀 I’m interested in Ai based software development.
 - 🌱 I’m a React & Node developer.
 - 💞️ I’m looking to collaborate on projects or work to learn more.
 - 📫 How to reach me @paraskumar2410@gmail.com
